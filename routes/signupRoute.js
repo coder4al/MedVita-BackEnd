@@ -45,7 +45,7 @@ router.get("/:path/:token", async (req, res) => {
       <p>Try to sigingin up again</p>
       <br><br>
       <p>Regards</p>
-      <p>hectrocritic</p> `);
+      <p>MedVita</p> `);
   }
 });
 
